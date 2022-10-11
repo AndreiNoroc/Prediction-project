@@ -1,0 +1,14 @@
+1. Sparse Jacobi:
+    Prima problema a fost usor(ok) de inteles. Nu am intampinat probleme mari. Mi a placut faptul ca cum am gandit legaturile la prima functie intre pozitiile din acel triunghi si ca am folosit CSR(o chestie interesanta). La implementare nu am avut mari probleme deoarece am facut algortimul la laborator, a fost bine inteles de acolo si a mers usor. A fost ca o problema de intializare :))
+
+2. K-Means:
+    La a doua problema am intampinat initial dificultati in intelegerea enuntului pentru ca pe de o parte recunosc nu mi luasem enuntul updatat. Cred ca ar fi fost bun si un exemplu ceva la modul o schema cum se aleg punctele dar asa ar fi fost mai usor:)). In final m am descurcat. Nu a fost asa complicat si foarte faina problema. Chiar nu stiam despre clustere si ma bucur ca am invatat si ca am ramas cu ceva care este foarta intalnit. Blana problema!
+
+3. Householder prediction
+    La a treia problema enuntul mi s a parut uneori destul de vag. Adica am inteles unele lucruri insa cand a venit vorba de implementat mi s a parut dificil. Aici chiar era nevoie de un exemplu mai explicit. La modul cum arata R G B extrase din imagine si toate cele. Insa dupa ce faceai functia rgbHistogram cam intelegeai destule si restul functiilor deveneau mai simple. Inceputul a fost mai greu. Cu toate astea a fost o problema epica. Ma bucur ca am lucrat la ea pentru ca am invatat la fel lucruri noi cu toate ca la prima citire mi s a parut foarte foarte dificila.
+
+4. Gradient Descent prediction
+    La a patra problema a fost mai usor pentru ca deja stiam cum functioneaza multe lucruri de la a 3 a problema. Pot spune ca am facut destul de repede functia learn desi poate parea ceva mai greu.
+
+Vectorizari:
+    Sincer aici am intalnit cele mai mari probleme pentru ca vectorizari simple facusem insa ce era necesar pentru unele parti din tema la inceput nici idee nu aveam cum se fac. Aici consider ca trebuia mai mult ajutor. Linkuri cu exemple mai concrete. Dar in final a fost ok.
